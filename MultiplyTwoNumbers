@@ -5,7 +5,7 @@ public class MultiplyTwoNumbers {
         float third = 1.5f;
         float two = 2.0f;
 
-        float result = third * two;
+        float result = one * two;
 
         System.out.println("The product is: " + result);
     }
