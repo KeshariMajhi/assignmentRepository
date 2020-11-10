@@ -10,5 +10,6 @@ sum-one+two;
         float result = one * two;
 
         System.out.println("The product is: " + result);
+         System.out.println("The product is: " + sum);
     }
 }
